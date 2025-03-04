@@ -1,9 +1,13 @@
 # CS-RNG-Free-Gamepasses
 Exploit script to get access to gamepass perks for free in CS:RNG
 
+# Note
+This script is a little worse than the casino script but it is more functional.
+If you're a CS:RNG Developer reading this - Please contact me on Discord @real.gob and I will send you the source code and explain how I made this and how it can be fixed, thanks.
+
 # Loadstring
 ```
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/8GOB5/CS-RNG-Free-Gamepasses/refs/heads/main/CS%3ARNG%20Free%20Gamepasses'))()
 ```
 ## Overview
 
